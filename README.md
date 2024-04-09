@@ -9,4 +9,4 @@ cmake ..
 make
 
 requires
-nginx redis muduo
+nginx redis muduo mysql
