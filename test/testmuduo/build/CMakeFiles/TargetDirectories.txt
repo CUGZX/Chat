@@ -1,0 +1,3 @@
+/home/jsj201-10/jsj201-10/mount1/chat/testmuduo/build/CMakeFiles/server.dir
+/home/jsj201-10/jsj201-10/mount1/chat/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/jsj201-10/jsj201-10/mount1/chat/testmuduo/build/CMakeFiles/rebuild_cache.dir
